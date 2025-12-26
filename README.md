@@ -7,6 +7,12 @@
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 
+🎥 **Demo Video**  
+
+
+https://github.com/user-attachments/assets/c67d6a3f-ae72-48e6-a5a2-406a505c9614
+
+
 [English](#english) | [Türkçe](#türkçe)
 
 </div>
